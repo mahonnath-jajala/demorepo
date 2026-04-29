@@ -802,9 +802,9 @@
                             <a href="#"><em class="fas fa-watch"></em> Accessories</a>
                         </div>
                     </li>
-                    <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#"><i class="fas fa-percent"></i> Deals</a></li>
-                    <li><a href="#"><i class="fas fa-info-circle"></i> About</a></li>
+                    <li><a href="#"><em class="fas fa-fire"></em> Trending</a></li>
+                    <li><a href="#"><em class="fas fa-percent"></em> Deals</a></li>
+                    <li><a href="#"><em class="fas fa-info-circle"></em> About</a></li>
                     <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
                 </ul>
             </nav>
@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summar Collection 2026</h1>
+            <h1>Hot Summar Collection 2026</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
